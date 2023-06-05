@@ -48,6 +48,13 @@ _Develop an algorithm that assigns auditors with good audit ratings to code auth
 
 🔴 The algorithm's effectiveness relies on accurate and fair rating systems, which can be challenging to implement. Potential biases or limitations in the algorithm may affect the quality and diversity of audits received by code authors.
 
+**7. See Well-Made Projects/Solutions**<br>
+_Provide access to well-made projects or solutions as references for auditors during the audit process._
+
+🟢 Exposing auditors to high-quality projects and solutions can serve as examples and benchmarks for their own audits. It helps them develop a better understanding of best practices, coding standards, and effective problem-solving approaches.
+
+🔴 People may become overly reliant on pre-existing solutions and neglect the learning process. It may discourage individual critical thinking and creativity, leading to a lack of originality in the audits.
+
 ### Working Prototype or Product
 
 TBD
