@@ -23,7 +23,7 @@ _Assigning a mentor from the programming school involves experienced individuals
 **3. Mentor from the Partnering Company**<br>
 _Collaborating with a partnering company to provide mentors for code audits, leveraging industry expertise._
 
-<span style="color:green;">Your green text here</span> Offers real-world insights and industry standards, enriching the feedback provided to code authors. Provides opportunities for networking and industry connections for both code authors and auditors. 
+🟢 Offers real-world insights and industry standards, enriching the feedback provided to code authors. Provides opportunities for networking and industry connections for both code authors and auditors. 
 
 🔴 Coordination between the programming school and the partnering company may pose logistical challenges. The availability of mentors from the partnering company may be influenced by their workload and schedules.
 
